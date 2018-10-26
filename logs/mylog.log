@@ -1,0 +1,111 @@
+2018-10-13 15:38:32 INFO  Hobby:49 - name: Karate
+2018-10-13 15:38:38 INFO  Hobby:65 - hours: 12
+2018-10-13 15:38:45 INFO  Hobby:81 - day 324
+2018-10-13 15:38:49 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException: Value out of range. Value:"3455346" Radix:10
+2018-10-13 15:39:05 INFO  Hobby:114 - priority: f
+2018-10-13 15:39:09 INFO  Hobby:130 - moneySpend: 324.0
+2018-10-13 15:39:09 INFO  Hobby:146 - moneyEarn: 3424.0
+2018-10-13 15:39:11 INFO  Hobby:162 - lazyMonths: 3
+2018-10-13 15:39:14 INFO  Hobby:180 - friends: true
+2018-10-13 15:39:31 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-13 15:39:32 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-13 15:39:33 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-13 15:39:34 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-13 15:39:35 INFO  Hobby:162 - lazyMonths: 34
+2018-10-13 15:39:35 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-13 15:39:36 INFO  Hobby:130 - moneySpend: 3.0
+2018-10-13 15:39:37 INFO  Hobby:114 - priority: 4
+2018-10-13 15:39:41 INFO  Hobby:81 - day 34
+2018-10-13 15:39:41 INFO  Hobby:65 - hours: 34
+2018-10-13 15:39:41 INFO  Hobby:98 - interval: 3
+2018-10-13 15:39:42 INFO  Hobby:162 - lazyMonths: 4
+2018-10-13 15:39:45 INFO  Hobby:146 - moneyEarn: 34.0
+2018-10-13 15:39:46 INFO  Hobby:130 - moneySpend: 34.0
+2018-10-13 15:39:47 INFO  Hobby:114 - priority: 4
+2018-10-13 15:41:14 INFO  Hobby:49 - name: weferwgw
+2018-10-13 15:41:14 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-13 15:41:14 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-13 15:41:14 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-13 15:41:15 INFO  Hobby:114 - priority: g
+2018-10-13 15:41:15 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-13 15:41:16 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-13 15:41:17 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-13 15:41:17 ERROR Hobby:184 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-14 23:00:12 INFO  Hobby:49 - name: выа
+2018-10-14 23:00:13 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-14 23:00:13 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-14 23:00:13 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-14 23:00:14 INFO  Hobby:114 - priority: а
+2018-10-14 23:00:14 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-14 23:00:14 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-14 23:00:14 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-14 23:00:14 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-14 23:00:15 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-14 23:00:16 INFO  Hobby:81 - day 343
+2018-10-14 23:00:16 INFO  Hobby:65 - hours: 4
+2018-10-14 23:00:16 INFO  Hobby:98 - interval: 4
+2018-10-14 23:00:17 INFO  Hobby:162 - lazyMonths: 34
+2018-10-14 23:00:17 INFO  Hobby:146 - moneyEarn: 4.0
+2018-10-14 23:00:17 INFO  Hobby:130 - moneySpend: 4.0
+2018-10-14 23:00:17 INFO  Hobby:114 - priority: 3
+2018-10-14 23:00:18 INFO  Hobby:81 - day 34
+2018-10-14 23:00:19 INFO  Hobby:65 - hours: 343
+2018-10-14 23:00:19 INFO  Hobby:98 - interval: 3
+2018-10-14 23:00:19 INFO  Hobby:162 - lazyMonths: 43
+2018-10-14 23:00:19 INFO  Hobby:146 - moneyEarn: 43.0
+2018-10-14 23:00:20 INFO  Hobby:130 - moneySpend: 43.0
+2018-10-14 23:00:20 INFO  Hobby:114 - priority: 4
+2018-10-14 23:00:40 INFO  Hobby:49 - name: авы
+2018-10-14 23:00:44 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-14 23:00:45 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-22 22:06:54 INFO  Hobby:49 - name: ыва
+2018-10-22 22:06:56 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-22 22:06:57 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-22 22:06:59 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-22 22:06:59 INFO  Hobby:114 - priority: п
+2018-10-22 22:07:02 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-22 22:07:02 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-22 22:07:03 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-22 22:07:03 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-22 22:07:04 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-22 22:07:04 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-22 22:07:05 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-22 22:07:05 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-22 22:07:06 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-22 22:07:06 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-22 22:07:06 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-22 22:07:07 INFO  Hobby:114 - priority: п
+2018-10-22 22:07:07 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-22 22:07:08 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-22 22:07:08 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-22 22:07:08 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-22 22:07:09 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-22 22:07:09 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-22 22:07:09 INFO  Hobby:114 - priority: 3
+2018-10-24 09:08:31 INFO  Hobby:49 - name: шг
+2018-10-24 09:08:33 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-27 00:21:19 INFO  Hobby:49 - name: пв
+2018-10-27 00:21:20 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-27 00:21:20 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-27 00:21:20 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-27 00:21:20 INFO  Hobby:114 - priority: п
+2018-10-27 00:21:20 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-27 00:21:21 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-27 00:21:21 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-27 00:21:21 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:183 - Wrong input format of friends false java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-27 00:21:22 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-27 00:21:23 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-27 00:21:23 INFO  Hobby:114 - priority: п
+2018-10-27 00:21:23 ERROR Hobby:84 - Wrong input format of day 0 java.util.InputMismatchException
+2018-10-27 00:21:23 ERROR Hobby:68 - Wrong input format of hours 0 java.util.InputMismatchException
+2018-10-27 00:21:24 ERROR Hobby:101 - Wrong input format of interval 0 java.util.InputMismatchException
+2018-10-27 00:21:24 ERROR Hobby:165 - Wrong input format of lazyMonths 0 java.util.InputMismatchException
+2018-10-27 00:21:24 ERROR Hobby:149 - Wrong input format of moneyEarn 0.0 java.util.InputMismatchException
+2018-10-27 00:21:24 ERROR Hobby:133 - Wrong input format of moneySpend 0.0 java.util.InputMismatchException
+2018-10-27 00:21:24 INFO  Hobby:114 - priority: п
+2018-10-27 00:31:48 INFO  Hobby:49 - name: d
